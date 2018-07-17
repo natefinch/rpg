@@ -1,7 +1,6 @@
 +++
-title: "The Best Cyberpunk Games"
-date: 2018-07-16T16:21:28-04:00
-draft: true
+title = "The Best Cyberpunk Games"
+date = 2018-07-16T16:21:28-04:00
 +++
 
 There are a ton of Cyberpunk RPGs around, and for better or worse, they all have their own unique spin on the genre, as well as mostly unique rules.  
