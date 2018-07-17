@@ -1,0 +1,24 @@
+baseurl = "https://rpg.npf.io"
+languageCode = "en-us"
+title = "rpg.npf.io"
+theme = "hyde"
+copyright = "Nate Finch"
+
+[Author]
+	name = "Nate Finch"
+
+[Permalinks]
+	blog = "/:year/:month/:filename/"
+[Taxonomies]
+	tag = "tags"
+	series = "series"
+	series-desc = "series-desc"
+
+[params]
+	description = "RPGs by Nate Finch"
+	twitter = "https://twitter.com/natethefinch"
+	github = "https://github.com/natefinch"
+	gplus = "https://plus.google.com/+NateFinch"
+	disqus = "rpgnpfio"
+	mainImage = "/moose.svg"
+
