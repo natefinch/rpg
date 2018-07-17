@@ -1,13 +1,13 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about" align=center>
-      {{with .Site.Params.mainImage}}<img src="{{.}}" width=50% />{{end}}
+      {{with .Site.Params.mainImage}}<img src="{{.}}" width=75% />{{end}}
       <p class="lead">
         {{ with .Site.Params.description }} {{.}} {{ else }}An elegant open source and mobile first theme for <a href="http://gohugo.io">hugo</a>        made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.{{end}}
       </p>
     </div>
     <ul class="sidebar-nav">
-      <li><a href="{{.Site.BaseURL}}/blog">Posts</a></li>
+      <li><a href="{{.Site.BaseURL}}/post">Posts</a></li>
       {{ range .Site.Menus.main }}
       <li><a href="{{.URL}}">{{ .Name }} </a></li>
       {{end}}
@@ -23,4 +23,4 @@
     <p class="footnote">powered by <a href="http://gohugo.io">Hugo</a> <br/> &copy; {{now.Format "2006"}} Nate Finch. All rights reserved.</p>
 
   </div>
-</div>
+</div>`
