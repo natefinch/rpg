@@ -1,6 +1,6 @@
 baseurl = "https://natefinch.com"
 languageCode = "en-us"
-title = "Nate Finch"
+title = "NateFinch.com"
 theme = "hyde"
 copyright = "Nate Finch"
 
@@ -15,7 +15,7 @@ copyright = "Nate Finch"
 	series-desc = "series-desc"
 
 [params]
-	description = ""
+	description = "RPG Discussion"
 	twitter = "https://twitter.com/natethefinch"
 	github = "https://github.com/natefinch"
 	gplus = "https://plus.google.com/+NateFinch"
