@@ -1,6 +1,6 @@
-baseurl = "https://rpg.npf.io"
+baseurl = "https://natefinch.com"
 languageCode = "en-us"
-title = "rpg.npf.io"
+title = "natefinch.com"
 theme = "hyde"
 copyright = "Nate Finch"
 
@@ -19,6 +19,6 @@ copyright = "Nate Finch"
 	twitter = "https://twitter.com/natethefinch"
 	github = "https://github.com/natefinch"
 	gplus = "https://plus.google.com/+NateFinch"
-	disqus = "rpgnpfio"
+	disqus = "natefinch"
 	mainImage = "/moose.svg"
 
