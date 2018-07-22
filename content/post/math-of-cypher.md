@@ -3,7 +3,7 @@ title = "The Math of Cypher System"
 date = 2018-07-22T13:52:53Z
 +++
 
-I finally took a look at Cypher system, since so many people had been suggesting it when I was looking at cyberpunk settings.  And I just can't get past the math.
+I finally took a look at [Cypher System](http://cypher-system.com/) (Monte's Cook's newish generic system that powers Numenera and The Strange), since so many people had been suggesting it when I was looking at cyberpunk settings.  And I just can't get past the math.
 
 The core mechanic of Cypher System is the GM assigning a difficulty between 1 and 10, then the player adjusting that down with skill, effort, help, etc. The final difficulty is then multiplied by 3 to get a target number, and you have to roll over the target number on a d20.
 
