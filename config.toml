@@ -15,7 +15,7 @@ copyright = "Nate Finch"
 	series-desc = "series-desc"
 
 [params]
-	description = "RPG Discussion"
+	description = "Musings about Tabletop RPGs"
 	twitter = "https://twitter.com/natethefinch"
 	github = "https://github.com/natefinch"
 	gplus = "https://plus.google.com/+NateFinch"

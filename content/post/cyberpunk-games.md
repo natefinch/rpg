@@ -7,9 +7,9 @@ There are a ton of Cyberpunk RPGs around, and for better or worse, they all have
 
 ## The Heavyweights
 
-* [Shadowrun](https://www.shadowruntabletop.com/). If you want Cyberpunk + Magic, this is The Game. The rules are a bit wonky, but it's the gorilla in the room for that genre. There's a ton of editions, I played 3rd, which was ok. I've heard the latest versions (4th and 5th) are a bit messed up, but have not played them.  I don't even know of any competing products for cyberpunk + magic, though there's a game on the horizon 
+These are the most well-known names in the cyberpunk genra 
 
-However, I don't like magic in my cyberpunk. I feel like it destroys too much of the grit if you can just cast spells to get around things (and it adds so much more complexity when you already have complexity from high tech).
+* [Shadowrun](https://www.shadowruntabletop.com/). If you want Cyberpunk + Magic, this is The Game. The rules are a bit wonky, but it's the gorilla in the room for that genre. There's a ton of editions, I played 3rd, which was ok. I've heard the latest versions (4th and 5th) are a bit messed up, but have not played them.  There are a couple competitors - see Entromancy under In Development, and Karma in the Dark under New Age.
 
 * [Cyberpunk 2020](https://talsorianstore.com/products/cyberpunk-2020) is the grandfather of the genre. It's pretty playable if you totally ignore netrunning (which you absolutely should). It's very combat-focused and deadly, and uses its own special system of d10s.  It is the original, and if you love cyberpunk, you should definitely play it a few times.  The flavor in the writing is just awesome.
 
@@ -24,8 +24,8 @@ Cyberpunk is traditionally a near future dystopia, but the themes all work just 
 
 I love universal systems in theory, because you can do anything, but in practice, the extra step required to translate in-game things into generic ruless is kind of an annoyance.
 
-[GURPS](http://www.sjgames.com/gurps/) is a universal roleplaying system and has an explicit cyberpunk book.
-[Hero System](https://www.herogames.com/) is much the same and also has a Cyberpunk book (though it's out of print).
+* [GURPS](http://www.sjgames.com/gurps/) is a universal roleplaying system and has an explicit cyberpunk book.
+* [Hero System](https://www.herogames.com/) is much the same and also has a Cyberpunk book (though it's out of print).
 
 ## New Age
 
@@ -34,6 +34,7 @@ These systems use more storytelling-driven systems that are significantly differ
 * [The Sprawl](http://www.ardens.org/games/the-sprawl/) and [The Veil](https://www.samjokopublishing.com/the-veil/) are two [PbtA](http://apocalypse-world.com/pbta/policy) games, but very different in feel. They're both less focused on combat than storytelling, so combat is pretty rules-light. The Sprawl is mission-based, which really divides the game down into bite-sized missions, which may be good for some people, but turned me off. The veil is very mental, existential, and explores emotions more than combat.
 * [Remember Tomorrow](http://gregorhutton.com/boxninja/remember/) is a rules-light system (I think it's like 40 pages and half of that is just descriptions).
 * [Technoir](http://www.technoirrpg.com/) is another rules-light system based on applying adjectives and verbs and uses d6 dice pools.
+* [Karma in the Dark](https://www.casskdesigns.com/current-version.html) is a free magic + cyberpunk rules-light system.
 
 ## The New Traditionalists
 
@@ -48,6 +49,7 @@ These are the ones that most closely resemble traditional RPGs with a "near futu
 There are new RPGs coming out all the time, and that includes cyberpunk RPGs.
 
 * [Entromancy](https://www.entromancy.com/) is a novel and RPG work-in-progress.  It's the only competitor to Shadowrun's magic + cyberpunk that I know of (and as far as I know, it's not anywhere near ready to play).
+* Cyberpunk Red is the new version of Cyberpunk 2020, which currently has no release date or website, but was very briefly mentioned by 2020's author, Mike Pondsmith as being under development.
 
 ## My Picks
 
@@ -55,6 +57,6 @@ If you haven't played Cyberpunk 2020, I highly recommend it.  Even if some thing
 
 Interface Zero looks like a good modern option with good crunch.  
 
-Personally, I am not a rules-light fan, so if you're into PbtA etc, you'll have to make your own decision.
+Personally, I am not a fan of rules-light games, so if you're into PbtA etc, you'll have to make your own decision.
 
-Shadowrun, obviously is the only choice for magic + cyberpunk right now, but it's not my thing (not that I'd say no if someone was running it).
+Shadowrun, obviously is the only choice for magic + cyberpunk right now, but it's not really my thing (not that I'd say no if someone was running it).
