@@ -48,8 +48,11 @@ These are the ones that most closely resemble traditional RPGs with a "near futu
 
 There are new RPGs coming out all the time, and that includes cyberpunk RPGs.
 
-* [Entromancy](https://www.entromancy.com/) is a novel and RPG work-in-progress.  It's the only competitor to Shadowrun's magic + cyberpunk that I know of (and as far as I know, it's not anywhere near ready to play).
+* [Entromancy](https://www.entromancy.com/) is a novel and RPG work-in-progress.  It's the only competitor to Shadowrun's magic + cyberpunk that I know of (and as far as I know, it's not anywhere near ready to play).  It has a (funded!) kickstarter that will finish up in September of 2018. 
+
 * Cyberpunk Red is the new version of Cyberpunk 2020, which currently has no release date or website, but was very briefly mentioned by 2020's author, Mike Pondsmith as being under development.
+
+* [Identco](https://www.playidenteco.com/) is another near-future standard cyberpunk game that finished up a successful kickstarter in September 2017.  The book is not yet available, as far as I can tell. 
 
 ## My Picks
 
