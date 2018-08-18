@@ -96,7 +96,13 @@ columns, so if you want a really old school look, try that out.
 
 To get some text to span columns, select that text and go to Format->Columns
 again and choose single column. Thus you can have your chapter or major section
-titles span the full page.  
+titles span the full page.  This is also a great way to break both columns in
+the middle of the page and still have text below them.
+
+Speaking of breaks, you can insert a column break with Insert->Break->Column.
+This will end the current column (if it's the left/middle column, the text will
+flow to the next column, if it's the rightmost column, it'll flow to the next
+page).
 
 ## Call Outs
 
