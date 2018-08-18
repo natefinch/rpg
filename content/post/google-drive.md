@@ -131,6 +131,22 @@ well.  For this, Google Drawings works very well.  It's a part of Google Drive,
 just go to New->More->Google Drawings. I'll write a separate post about google
 drawings, as I think it's a pretty great tool for designers.
 
+## Tables
+
+Please folks, remove the borders on your tables.  It'll immediately change them
+from looking like a document written in 1998, to something more modern.  
+
+Tables are at once useful and a nightmare. They can convey a lot of information,
+but large tables can be intimidating and just look nasty.  Discretion is
+advised.
+
+I like making every other row have a light gray background to help with
+readability, but there's no built-in way to do that with Google Docs.  However,
+there is an add-on that'll do it for you. Go to Add-Ons->Get Add-On, and search
+for Table Formatter. Install that, and it'll give you a bunch of preformatted
+styles that it can apply to tables in a single click.  It even lets you
+customize your own formats. Super useful.
+
 ## Distribution
 
 There's basically two ways to share a google doc. You can either share a link to
