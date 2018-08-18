@@ -35,10 +35,12 @@ that style.  You can go to Format->Paragraph Styles to tweak your headings even
 more, to give them borders or backgroud colors.
 
 The only thing that I wish google docs supported that it doesn't is styling
-specific sections of text in consistent ways.  You can't, for exmaple, tag all
-skill names witha style and then update that style to update all instances of
-skill names (like making them italics or whatever).  Maybe this will come later,
-but for now, it's not possible.
+specific sections of text inside a paragraph.  Applying a heading style applies
+it to the entire paragraph.  You can't, for exmaple, tag all skill names with a
+style and then update that style to update all instances of skill names (like
+making them italics or whatever).  You also can't have more than 6 headings, and
+you can't name your styles.  Maybe this will come later, but for now, it's not
+possible.
 
 ## Fonts
 
@@ -49,6 +51,13 @@ subset are in font list to start with, so go to the Font dropdown, and choose
 More Fonts... to get access to all of Google's fonts. There's fonts for
 basically anything you could ever want in there, so give yourself some time to
 look through all the options.
+
+If this is *still* not enough fonts, you can install the Extensis add-on to get
+even more fonts.  Go to Add-Ons->Get Add-Ons, and search for Extensis.  Follow
+the steps to install it.  Now close out of Add-Ons.  For every document where
+you want to use Extensis fonts, you have to "start" the add-on. Go into
+Add-Ons->Extensis->Start and you'll see a sidebar open up with a whole new world
+of fonts. 
 
 Don't go too crazy, choose a small number of fonts (2-4) to use in your text,
 and make sure they're used consistently, so that the reader can infer meaning
@@ -134,6 +143,12 @@ your game design folder, right click the file and select "Get Shareable Link".
 Copy the link that pops up and that's it.  Test out the link by opening an
 Incognito window and paste the link in, to make sure it opens the PDF directly.
 
-That's it. You have a PDF of your game that you can share with anyone.
+Now here's where using google drive is better than just any old file hosting.
+You can actually update the file that opens from the link you just copied.  So
+if you make a new version of the rules, you can create a new pdf and replace the
+old one.  Find the pdf you uploaded in drive, but don't open it.  Right click
+the file and click "Manage Versions".  A small window will pop up, and allow you
+to upload a new version of the file, and now when people open the link, they'll
+get that version instead.
 
 Let me know in the comments if you have any other tricks for using Google Docs.
