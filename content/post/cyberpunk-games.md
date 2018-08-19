@@ -52,7 +52,7 @@ There are new RPGs coming out all the time, and that includes cyberpunk RPGs.
 
 * Cyberpunk Red is the new version of Cyberpunk 2020, which currently has no release date or website, but was very briefly mentioned by 2020's author, Mike Pondsmith as being under development.
 
-* [Identco](https://www.playidenteco.com/) is another near-future standard cyberpunk game that finished up a successful kickstarter in September 2017.  The book is not yet available, as far as I can tell. 
+* [Identeco](https://www.playidenteco.com/) is another near-future standard cyberpunk game that finished up a successful kickstarter in September 2017.  The book is not yet available as of August 2018, as far as I can tell. 
 
 ## My Picks
 
