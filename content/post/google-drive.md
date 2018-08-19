@@ -1,3 +1,11 @@
++++
+Description = ""
+Categories = ["RPG Design", "RPG"]
+title = "Using Google Docs for RPG Books"
+date = 2018-08-17T09:43:08-04:00
+draft = false
++++
+
 I use Google Drive (or Google Docs or Google One, depending on what they call it
 this week) for basically everything. It’s free, it auto-saves, it’s the same no
 matter what computer I’m on, and it generally works great. This extends to
