@@ -15,7 +15,8 @@ when youâ€™re starting out. Google Docs works great for writing game rules. Itâ€
 basically just like writing in Microsoft Word, except it saves to the cloud, so
 you never have to worry about losing your work.
 
-You can see an example of using Google Docs here. This is a copy of the first
+You can see an example of using Google Docs [here](https://docs.google.com/document/d/1UhM0STTGav_CttqvgQG3MQTrpy0lB95WP_M0RNeeIdM/edit?usp=sharing).
+. This is a copy of the first
 page of my in-progress RPG. Not bad, right? Feel free to make a copy of this
 document and mess around with it to see how it works (go to File->Make a Copy).
 
