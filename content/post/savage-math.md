@@ -44,7 +44,9 @@ BUT… if you can get +2 from an edge or other beneficial circumstance, all of a
 
 And that’s what I mean about the math in Savage Worlds being deceptive. You can’t easily do the math in your head for any particular scenario, you have to play a lot and get a feeling for how often various rolls work… or you need some sort of crazy lookup table.  
 
-![image of meme of character looking at screen and then away][lookaway.png]
+![image of meme of character looking at screen and then away](static/lookaway.png)
+
+## The Crazy Lookup Table
 
 <table>
   <tr>
@@ -302,6 +304,8 @@ You can definitely see that untrained is fairly bad, but even then you have almo
 
 I like high chances for success in an RPG. Failing half the time like some RPGs expect, means you can’t actually count on any of your abilities. They’re just a coin flip. Being “average” and having a 75% chance of success is just about perfect, though, in my opinion. Failure is definitely still quite likely, but it’s somewhat unexpected when it happens. And that’s exactly the way it should be. Failing all the time is not fun. It’s the *chance* of failure that really makes the game interesting.
 
+## Extras
+
 I’ll touch on the percentages for Extras (non-Wild Cards) only briefly, mostly because I don’t feel like typing out another gigantic table. You can see the results for yourself here: 
 
 [https://anydice.com/program/23941](https://anydice.com/program/23941) 
@@ -315,8 +319,9 @@ D8		    63%
 D10		    70%
 D12		    75%
 ```
-So, it takes an Extra with a d12 skill to be as good as a regular old d6 Wild Card. Ouch. \
+So, it takes an Extra with a d12 skill to be as good as a regular old d6 Wild Card. Ouch.
 
+## Conclusion
 
 And that’s what all I have for Savage Math right now. Pretty interesting stuff. It’s super interesting how the exploding dice and the wild die really work together to make the math work for PCs (but don’t count on your friendly Extras for much help!)
 
