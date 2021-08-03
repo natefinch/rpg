@@ -21,7 +21,7 @@ But that’s the deceptive part. You see, Savage Worlds PCs and special NPCs (co
 ![screenshot of graph from anydice](/img/anydiced6wild.png)
 
 
-The numbers in parentheses after “output 1” are the average and the standard deviation. But the most interesting part is the numbers next to the graph. They show how likely you are to roll that number or higher (what anydice calls “at least”).  So you have a 55.56% chance to roll at least a 5.
+The most interesting part is the numbers next to the graph. They show how likely you are to roll that number or higher (what anydice calls “at least”).  So you have a 55.56% chance to roll at least a 5.
 
 
 ## Exploding Dice
