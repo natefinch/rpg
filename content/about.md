@@ -6,4 +6,6 @@ title = "About"
 	weight = 1
 +++
 
-I have been playing roleplaying games since basic D&D in about 1988.  I've played every version of D&D and a wide variety of other RPGs (Cyberpunk 2020, Shadowrun, Rifts, Hero System, Savage Worlds) and read many more games I never had the chance to play.
+By day, I am software engineer living in rural-ish Massachusetts. By night, I play, design, and review tabletop RPGs.
+
+I have been playing roleplaying games since basic D&D in about 1988. I've played every version of D&D and a wide variety of other RPGs (Cyberpunk 2020, Shadowrun, Rifts, Hero System, Savage Worlds, Deadlands, Blades in the Dark, Dungeon World, The Quiet Year) and read many more games I've never had the chance to play.
