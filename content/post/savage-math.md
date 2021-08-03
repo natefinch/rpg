@@ -36,7 +36,7 @@ This gives us a graph that looks like this:
 ![screenshot of graph from anydice](/img/untrainedwild.png)
 
 
-Technically there’s no upper limit to what you can roll, but AnyDice only calculates 3 explosions, and that’s unlikely enough that it runs into tiny percentages anyway.
+Technically there’s no upper limit to what you can roll, but AnyDice only calculates 2 explosions, and that’s unlikely enough that it runs into tiny percentages anyway.
 
 So this is an interesting result. The chances of a Wild Card character succeeding on an untrained skill check is almost 1 in 3. That’s not great, but it might be better than you were expecting, since 1d6-2 only gets a 4+ 16.67% of the time.
 
