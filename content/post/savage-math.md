@@ -14,7 +14,7 @@ Take melee, for example. d6 is generally described as being “average” at a s
 
 ## Wild Cards
 
-But that’s the deceptive part. You see, Savage Worlds PCs and special NPCs (collectively called “Wild Cards”) also get a Wild Die. This is an extra die, always a d6, which they roll in addition to whatever skill or attribute they’re rolling. You use the higher of the two die rolls and add modifiers afterward. Of course, figuring out that math by hand can be tricky, which is why I just plug the numbers into AnyDice.com, a fantastic resource for figuring out die math. For finding the highest of two rolled d6’s, you plug in `output [highest of 1d6 and 1d6],` click “calculate” and then click “at least” and you get a graph like this:
+But that’s the deceptive part. You see, Savage Worlds PCs and special NPCs (collectively called “Wild Cards”) also get a Wild Die. This is an extra die, always a d6, which they roll in addition to whatever skill or attribute they’re rolling. You use the higher of the two die rolls and add modifiers afterward. Of course, figuring out that math by hand can be tricky, which is why I just plug the numbers into [AnyDice.com](https://anydice.com), a fantastic resource for figuring out die math. For finding the highest of two rolled d6’s, you plug in `output [highest of 1d6 and 1d6],` click “calculate” and then click “at least” and you get a graph like this:
 
 
 
