@@ -18,7 +18,7 @@ But that’s the deceptive part. You see, Savage Worlds PCs and special NPCs (co
 
 
 
-![screenshot of graph from anydice](static/anydiced6wild.png)
+![screenshot of graph from anydice](img/anydiced6wild.png)
 
 
 The numbers in parentheses after “output 1” are the average and the standard deviation. But the most interesting part is the numbers next to the graph. They show how likely you are to roll that number or higher (what anydice calls “at least”).  So you have a 55.56% chance to roll at least a 5.
@@ -33,7 +33,7 @@ To math up the possibilities there, we use AnyDice’s `explode` feature. So, a 
 This gives us a graph that looks like this:
 
 
-![screenshot of graph from anydice](static/untrainedwild.png)
+![screenshot of graph from anydice](img/untrainedwild.png)
 
 
 Technically there’s no upper limit to what you can roll, but AnyDice only calculates 3 explosions, and that’s unlikely enough that it runs into tiny percentages anyway.
@@ -44,7 +44,7 @@ BUT… if you can get +2 from an edge or other beneficial circumstance, all of a
 
 And that’s what I mean about the math in Savage Worlds being deceptive. You can’t easily do the math in your head for any particular scenario, you have to play a lot and get a feeling for how often various rolls work… or you need some sort of crazy lookup table.  
 
-![image of meme of character looking at screen and then away](static/lookaway.png)
+![image of meme of character looking at screen and then away](img/lookaway.png)
 
 ## The Crazy Lookup Table
 
